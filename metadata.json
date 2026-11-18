@@ -1,0 +1,6 @@
+{
+  "name": "BazaarLedger POS",
+  "description": "Offline-first Supermarket Point of Sale, Inventory Management, Billing, and Financial Reporting System.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
