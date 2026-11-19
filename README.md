@@ -219,4 +219,4 @@ Please check the repository's license file for usage and distribution permission
 
 ---
 
-\<p align="center">   Built with React, TypeScript, and Node.js \</p>
+<p align="center">   Built with React, TypeScript, and Node.js </p>
